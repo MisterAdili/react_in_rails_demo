@@ -2,8 +2,8 @@
   "name": "react-in-rails-demo",
   "private": true,
   "engines": {
-    "node": "16.17",
-    "yarn": "1.22.19"
+    "node": "=16.17",
+    "yarn": "=1.22.19"
   },
   "dependencies": {
     "@babel/preset-react": "^7.16.7",
